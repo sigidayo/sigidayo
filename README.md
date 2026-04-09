@@ -1,4 +1,4 @@
 # Hello, I'm Sigi.
-my old profile repo was *weird* so to wip enternity it goes
+Homepage under construction
 
 Contact: [contactme@chisato.me](mailto:contactme@chisatome)
